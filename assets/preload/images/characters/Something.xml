@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Something.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="698" height="1133" frameX="-5" frameY="-72" frameWidth="1851" frameHeight="1208"/>
+	<SubTexture name="Idle0001" x="698" y="0" width="716" height="1153" frameX="-3" frameY="-54" frameWidth="1851" frameHeight="1208"/>
+	<SubTexture name="Idle0002" x="1414" y="0" width="1842" height="1173" frameX="-9" frameY="-34" frameWidth="1851" frameHeight="1208"/>
+	<SubTexture name="Idle0003" x="3256" y="0" width="710" height="1151" frameX="0" frameY="-56" frameWidth="1851" frameHeight="1208"/>
+	<SubTexture name="Idle0004" x="0" y="1173" width="1835" height="1208" frameX="-5" frameY="0" frameWidth="1851" frameHeight="1208"/>
+</TextureAtlas>
